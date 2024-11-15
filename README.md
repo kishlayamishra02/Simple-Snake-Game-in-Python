@@ -1,4 +1,5 @@
 Snake Game 🎮
+
 This project is a simple yet engaging Snake Game built using Python and Pygame. The game allows the player to control a snake, collect food, and grow in size while avoiding collisions with walls and itself. It includes a dynamic score counter, a game-over screen, and a resizable game window for a better user experience.
 
 Features ✨
@@ -14,14 +15,17 @@ About the Project 📖
 This is my first Python project, created as part of my learning journey. I developed this game with the guidance of ChatGPT and YouTube tutorials, blending creativity and technical exploration. It has been an exciting learning experience for me, diving into the fundamentals of game development and Python programming.
 
 How to Play 🕹️
+
 Use W, A, S, D keys to move the snake.
 Collect the red squares (food) to grow the snake and increase your score.
 Avoid colliding with the walls or the snake's body.
 Resize the window to adjust the gameplay area as desired.
 
 Technologies Used 💻
+
 Python
 Pygame
+
 Feel free to explore, fork, and contribute to the project! 😊
 
 Created by: Kishlaya Mishra
