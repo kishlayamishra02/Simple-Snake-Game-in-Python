@@ -29,4 +29,5 @@ Pygame
 Feel free to explore, fork, and contribute to the project! 😊
 
 Created by: Kishlaya Mishra
+
 Guided by: ChatGPT and YouTube Tutorials
